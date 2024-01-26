@@ -1,0 +1,1 @@
+U sklopu Seminara 1 razvijena je programska podrška za mikrokontroler STM32F4 Discovery koja omogućuje crtanje, pisanje i interakciju dodirom s grafičkim pokaznikom ILI9341. Mikrokontroler zajedno s grafičkim pokaznikom čini upravljačko sučelje za programski dedfinirani radio s kojim komunicira preko UART-a.
